@@ -1,0 +1,62 @@
+h2{font-family:sans-serif;  }
+h2{ text-align: center}
+h2{color:darkgreen}
+html{ background-color: palegoldenrod;}
+ h2{border-width: 2px; border-style:solid; border-color: palegoldenrod;}
+h2{ padding: 5px; margin: 10px; border-radius: 50px;}
+h2{background-color: rgba(90, 167, 90, 0.748);}
+ul{
+    border-width: 2px; border-style: solid; border-color: green; border-radius: 0px; width: 600px;
+ padding: 5px;
+ margin: 0px auto 0px auto ;
+}
+a:link{ text-decoration: none;}
+a:visited{ text-decoration: none;}
+a:link{ color: darkgreen;
+font-weight: bold;}
+a:visited{ color: darkgreen}
+a:link:hover{color: purple;}
+a:visited:hover{color: purple;}
+body{margin: 2%;}
+body{padding: 2%;}
+li{display: inline;}
+li{margin: 0px 60px;}
+li{color: green;}
+li{text-align: center;}
+li{border-color: darkgreen;}
+li{text-decoration: none;}
+body {
+color:darkgreen;
+background-color: palegoldenrod;
+background-image: url("images/backdrop.gif");
+font-family: sans-serif serif;
+text-align: left;}
+.wrapper {
+width: 150px;
+margin: 0px;}
+h3{
+    text-align: left;
+}
+.entry {
+width: 220px;
+float: left;
+margin: 5px;
+height: 198px;
+}
+figure {
+display: block;
+width: 202px;
+height: 170px;
+background-color: rgb(225, 219, 182);
+padding: 3px;
+text-align: left;}
+figure img {
+width: 200px;
+height: 150px;
+border: 1px solid #d6d6d6;}
+figcaption {
+padding-left: 10px;
+}
+html{border-style: dashed;
+border-color: darkgreen;
+margin: 43px;}
